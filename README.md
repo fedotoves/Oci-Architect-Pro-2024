@@ -4,6 +4,8 @@ OCI Architect Professional 2024
 Continuation of my work on OCI Architect Pro 2023 course
 2 chapters with older code are available here: https://github.com/fedotoves/OCI-Architect-Pro
 
+Chapter 2 in this course, till "Introduction to OKE" lecture is similar to chapter 2 in 2023 version, but in 2024 version they use kubernetes and container instances. In 2023 they were using oci_core instances, but idea is the same. Seems that Chapter 2 and 4 from 2023 course were consolidated in one single chapter 2 in 2024 course. So, here I'm starting with "Intoduction to OKE" lecture from chapter 2.
+
 This is terraform code that tries to implement manual steps
 for lectures given in OCI architect course for Exam 1Z0-997-23:
 Oracle Cloud Infrastructure 2023 Architect Professional wherever possible.
